@@ -8,6 +8,7 @@ TagManager:
   - Grid
   - Obstacle
   - Decorations
+  - Title
   layers:
   - Default
   - TransparentFX

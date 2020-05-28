@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Object Scripts\objectEditor.cs" />
     <Compile Include="Assets\Scripts\Object Scripts\objectPlacement.cs" />
     <Compile Include="Assets\Scripts\Object Scripts\objectPlacementRaycast.cs" />
+    <Compile Include="Assets\Scripts\buttonManager.cs" />
     <Compile Include="Assets\Scripts\obstacleButton.cs" />
     <Compile Include="Assets\Scripts\placementManager.cs" />
     <Compile Include="Assets\Scripts\playerInfo.cs" />
@@ -79,31 +80,31 @@
     <Compile Include="Assets\UNInput\Scripts\UNApp.cs" />
     <None Include="Assets\UNInput\Sprites\OnScreenControls\license.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -277,7 +278,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="UNInput_WIN">
-      <HintPath>C:/Users/Kenji/Documents/GitHub/AINT354-VR-Real-Time-Strategy-Game/DM ToolKit/Assets/UNInput/Plugins/UNInput_WIN.dll</HintPath>
+      <HintPath>C:/Users/Kenji/Documents/GitHub/PRCO304/DM ToolKit/Assets/UNInput/Plugins/UNInput_WIN.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.2f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

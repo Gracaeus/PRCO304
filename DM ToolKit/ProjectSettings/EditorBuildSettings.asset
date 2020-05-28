@@ -8,10 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Screen.unity
     guid: d5e43b427d4d57e4886be8b605917a07
-  - enabled: 0
-    path: Assets/Scenes/Character Creation.unity
+  - enabled: 1
+    path: Assets/Scenes/Basic Info.unity
     guid: 21fd361f1009e934893afc18978e8ce3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Player Screen.unity
     guid: fea4268f17468804a9eb52c4c590c958
+  - enabled: 1
+    path: Assets/Scenes/Action Stats.unity
+    guid: fed87297b3d3df74c9bc5cd952d07af9
+  - enabled: 1
+    path: Assets/Scenes/Basic Stats.unity
+    guid: f0e6e382d3ec85e4fbcf97220d73389f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8458656e447b0ab4b82e24b45c6c962c
   m_configObjects: {}
