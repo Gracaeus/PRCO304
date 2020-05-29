@@ -21,7 +21,11 @@ public class buttonManager : MonoBehaviour
     }
     public void CharacterView()
     {
-        SceneManager.LoadScene("View Character");
+        SceneManager.LoadScene("Player Screen");
+    }
+    public void CharacterActions()
+    {
+        SceneManager.LoadScene("Character Actions");
     }
 
     public void MainMenu()

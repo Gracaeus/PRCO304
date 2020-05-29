@@ -92,7 +92,7 @@ public class saveBasicInfo : MonoBehaviour
             }
             if (xp != null)
             {
-                PlayerPrefs.SetString("XP", xp.text);
+                PlayerPrefs.SetString("Speed", xp.text);
                 Debug.Log(PlayerPrefs.GetString("Player Name"));
             }
             SceneManager.LoadScene("Action Stats");
@@ -149,7 +149,7 @@ public class saveBasicInfo : MonoBehaviour
                 PlayerPrefs.SetString("s9", s9.text);
                 Debug.Log(PlayerPrefs.GetString("Player Name"));
             }
-            SceneManager.LoadScene("Character Finished");
+            SceneManager.LoadScene("MainMenu");
         }
 
 

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 08d54e39b939e674d83a1a799e527b6d
+  - enabled: 1
     path: Assets/Scenes/Main Screen.unity
     guid: d5e43b427d4d57e4886be8b605917a07
   - enabled: 1
@@ -23,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 8458656e447b0ab4b82e24b45c6c962c
+  - enabled: 1
+    path: Assets/Scenes/Character Actions.unity
+    guid: 09df9a78986e41c448f0a75a1ad0fa43
+  - enabled: 1
+    path: Assets/Scenes/View Map.unity
+    guid: ea3c31f6381d56f4cbbedc9c51a61ec3
   m_configObjects: {}
